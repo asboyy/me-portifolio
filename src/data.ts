@@ -26,12 +26,7 @@ export const SKILLS: Skill[] = [
     color: "bg-[#F24E1E]", // Warna oranye-merah Figma
     category: "Design",
   },
-  {
-    name: "React",
-    iconName: "Atom",
-    color: "bg-[#61DAFB]", // Warna sian React
-    category: "Web",
-  },
+
   {
     name: "TypeScript",
     iconName: "FileCode2",
@@ -170,8 +165,8 @@ export const CONTACTS: ContactChannel[] = [
   {
     name: "Email",
     iconName: "Gmail",
-    url: "aamiikk01@gmail.com",
-    username: "fahmi@example.com",
+    url: "https://mail.google.com/mail/u/0/#inbox?compose=new",
+    username: "aamiikk01",
     color: "bg-[#ea4335]",
   },
   {
